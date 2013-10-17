@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tb-portolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="teresia">Teresia Zeito</string>
+    <string name="sebastian">Sebastian Dalhed</string>
+    <string name="jonny">Jonathan Linder</string>
+    <string name="tessText">Catsear wattle seed gram bitterleaf 
+        melon tatsoi pea sprouts swiss chard. Arugula turnip greens 
+        kakadu plum endive bamboo shoot radish.
+        Catsear wattle seed gram bitterleaf 
+        melon tatsoi pea sprouts swiss chard. Arugula turnip greens 
+        kakadu plum endive bamboo shoot radish.
+        Catsear wattle seed gram bitterleaf 
+        melon tatsoi pea sprouts swiss chard. Arugula turnip greens 
+        kakadu plum endive bamboo shoot radish.
+        Catsear wattle seed gram bitterleaf 
+        melon tatsoi pea sprouts swiss chard. Arugula turnip greens 
+        kakadu plum endive bamboo shoot radish.
+        Catsear wattle seed gram bitterleaf 
+        melon tatsoi pea sprouts swiss chard. Arugula turnip greens 
+        kakadu plum endive bamboo shoot radish.
+        Catsear wattle seed gram bitterleaf 
+        melon tatsoi pea sprouts swiss chard. Arugula turnip greens 
+        kakadu plum endive bamboo shoot radish.</string>
+    <string name="gitText">Get in touch</string>
+    <string name="pNumber">+46(0) 760 000 000</string>
+    <string name="email">teresia.zeito@hyperisland.se</string>
+    <string name="website">example.com</string>
+    
+    <color name="white">#ffffff</color>
+    <color name="black">#414042</color>
+    <color name="scarlet">#e74c3c</color>
+    <color name="jade">#2ecc71</color>
+    <color name="cobolt">#3F96BC</color>
+    
+
+</resources>
